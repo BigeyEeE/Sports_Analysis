@@ -1,5 +1,7 @@
 ## Olympic Analysis Repository
 
+![Banner Image](https://t3.ftcdn.net/jpg/03/26/04/08/360_F_326040863_Yom2lhus8ckIdRCNYRLFbtKR9fhFGz0f.jpg)
+
 ## Overview
 
 This repository contains data analysis resources for exploring Olympic data. The primary goal of this project is to analyze historical Olympic data, identify trends, and derive insights regarding athlete performances, medal counts, and other relevant factors.
